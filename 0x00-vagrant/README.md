@@ -1,1 +1,1 @@
-what the command uname print when you run it without an option is linux
+what the command "uname" prints when you run it without an option is linux
